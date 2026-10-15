@@ -29,8 +29,8 @@ name = "N_table"
 path = "src/bin/N_table.rs"
 
 [[bin]]
-name = "calculator"
-path = "src/bin/calculator.rs"
+name = "calculator1"
+path = "src/bin/calculator1.rs"
 
 [[bin]]
 name = "hello_codeforces"
