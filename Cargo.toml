@@ -1,0 +1,69 @@
+[package]
+name = "kirat_assn"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "triangle"
+path = "src/bin/triangle.rs"
+
+[[bin]]
+name = "z"
+path = "src/bin/z.rs"
+
+
+[[bin]]
+name = "rect"
+path = "src/bin/rect.rs"
+
+[[bin]]
+name = "rect_fast"
+path = "src/bin/rect_fast.rs"
+
+[[bin]]
+name = "5_table"
+path = "src/bin/5_table.rs"
+
+[[bin]]
+name = "N_table"
+path = "src/bin/N_table.rs"
+
+[[bin]]
+name = "calculator"
+path = "src/bin/calculator.rs"
+
+[[bin]]
+name = "hello_codeforces"
+path = "src/bin/hello_codeforces.rs"
+
+[[bin]]
+name = "vowels"
+path = "src/bin/vowels.rs"
+
+[[bin]]
+name = "second_last_digit"
+path = "src/bin/second_last_digit.rs"
+
+[[bin]]
+name = "leap_year"
+path = "src/bin/leap_year.rs"
+
+[[bin]]
+name = "good_numbers"
+path = "src/bin/good_numbers.rs"
+
+[[bin]]
+name = "fizzbuzz"
+path = "src/bin/fizzbuzz.rs"
+
+
+
+
+
+
+
+
+
+
+
+[dependencies]
