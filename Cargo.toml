@@ -33,6 +33,14 @@ name = "calculator1"
 path = "src/bin/calculator1.rs"
 
 [[bin]]
+name = "empty_rectangle"
+path = "src/bin/empty_rectangle.rs"
+
+[[bin]]
+name = "empty_rect2"
+path = "src/bin/empty_rect2.rs"
+
+[[bin]]
 name = "hello_codeforces"
 path = "src/bin/hello_codeforces.rs"
 
