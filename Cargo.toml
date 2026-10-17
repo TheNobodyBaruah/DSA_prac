@@ -56,6 +56,9 @@ path = "src/bin/good_numbers.rs"
 name = "fizzbuzz"
 path = "src/bin/fizzbuzz.rs"
 
+[[bin]]
+name = "count_zeros"
+path = "src/bin/count_zeros.rs"
 
 
 
